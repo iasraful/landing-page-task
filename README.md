@@ -18,6 +18,10 @@ Make sure to install the dependencies:
 
 ```bash
 # npm
+
+git clone https://github.com/iasraful/landing-page-task.git
+cd landing-page-task
+
 npm install
 
 # pnpm
